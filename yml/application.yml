@@ -1,0 +1,6 @@
+env: test
+server:
+  port: 9999
+spring:
+  application:
+    name: user-service
